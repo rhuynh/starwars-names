@@ -1,5 +1,5 @@
 {
-  "name": "starwars-name",
+  "name": "star-wars-name",
   "version": "1.0.0",
   "description": "star wars name",
   "main": "src/index.js",
